@@ -14,8 +14,8 @@ const STAGES = [
     body: (
       <>
         <p>
-          Hi [first name], congrats on the SpaceX deal and the round.
-          This is Jovan from Hex.
+          Hey [first name], congrats on the SpaceX deal. This is Jovan
+          from Hex.
         </p>
         <p className="mt-5">
           This is a cold call. Want to give me 30 seconds, or should I
