@@ -44,13 +44,13 @@ export default function HeadwayAccount() {
             >
               Cursor is the AI-native code editor used by more than half
               the Fortune 500. Founded in 2022 by four MIT engineers,
-              the company hit $2 billion in ARR by February 2026, the
-              fastest scale to that mark in B2B software history. Around
-              50 employees, headquartered in San Francisco, with a $2
-              billion funding round in motion at a $50 billion valuation
-              and a SpaceX partnership announced in April that gives
-              SpaceX an option to acquire the company outright for $60
-              billion later this year.
+              the company hit $2 billion ARR in February 2026, faster
+              than any B2B software company has ever gotten there.
+              Around 50 employees, based in San Francisco. They're
+              closing a $2 billion round at a $50 billion valuation
+              right now, and in April they signed a partnership with
+              SpaceX that gives SpaceX the option to buy them outright
+              for $60 billion later this year.
             </motion.p>
           </motion.div>
 
@@ -123,15 +123,13 @@ export default function HeadwayAccount() {
           </div>
           <div className="lg:col-span-10">
             <p className="text-xl md:text-2xl leading-[1.55] text-ink/90 max-w-4xl">
-              Cursor went from zero to $2 billion ARR in three years,
-              the fastest B2B software company on record. They're now
-              hiring their first Data Scientist, Growth. The job posting
-              explicitly says "early member of the data science team"
-              and names Growth, Enterprise, Finance, and Product as the
-              partner orgs. My read: with the SpaceX partnership team
-              and two new investor cohorts incoming, whoever takes that
-              role walks into a tornado of questions the company has
-              never had to answer.
+              They just posted their first Data Scientist (Growth) role.
+              The listing literally calls it "early member of the data
+              science team" and names Growth, Enterprise, Finance, and
+              Product as the teams this person will work with. My read:
+              between the SpaceX partnership team and two fresh investor
+              groups coming in, whoever takes that job walks into more
+              questions than the company has ever had to answer.
             </p>
           </div>
         </motion.div>

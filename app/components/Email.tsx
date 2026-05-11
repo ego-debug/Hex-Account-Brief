@@ -9,22 +9,22 @@ type Block =
   | { kind: "sig"; text: string };
 
 const BLOCKS: Block[] = [
-  { kind: "p", text: "Hi," },
+  { kind: "p", text: "Hi [first name]," },
   {
     kind: "p",
     text: "Saw the SpaceX news and the Data Scientist (Growth) posting in the same week. Congrats on both.",
   },
   {
     kind: "p",
-    text: "Most early data hires at hyper-growth startups spend month one building infrastructure (pipelines, dashboards, governance) instead of shipping insights to growth and product. Hex flips that. Notebooks for the analyst, Threads for self-serve from product, growth, and finance, Context Studio for the semantic layer that keeps AI honest. Your incoming hire is productive in week one instead of month four.",
+    text: "Most early data hires at startups your speed spend month one building infrastructure (pipelines, dashboards, governance) instead of doing the actual analysis you hired them for. Hex skips that build. Notebooks for the analyst, Threads so product, growth, and finance can self-serve, Context Studio to keep the AI honest against your warehouse. Your hire is useful in week one, not month four.",
   },
   {
     kind: "p",
-    text: "We just shipped a Claude Connector. Same Threads experience, native to Claude. Given how Claude-heavy Cursor's stack already is, your team can ask warehouse questions from inside Claude without opening hex.tech.",
+    text: "We just shipped a Claude Connector on March 3. Same Threads experience, now native to Claude. Your engineers already live in Claude, so they can ask data questions without ever opening hex.tech.",
   },
   {
     kind: "p",
-    text: "Worth 15 minutes to walk through what an incoming data scientist's first 30 days could look like with Hex? Happy to walk through a working Threads + Connector demo I built on public data and show you what the same shape would look like against yours.",
+    text: "Worth 15 minutes to show what your incoming data scientist's first 30 days could look like with Hex? I built a working Threads + Connector demo on public data and can walk you through what the same shape would look like against yours.",
   },
   { kind: "sig", text: "Jovan Marrero, Hex" },
 ];
@@ -114,7 +114,7 @@ export default function Email() {
                   label="Subject"
                   value={
                     <span className="font-medium">
-                      The platform your incoming data scientist actually needs
+                      Your incoming data scientist's first 30 days
                     </span>
                   }
                 />

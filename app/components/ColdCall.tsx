@@ -14,8 +14,8 @@ const STAGES = [
     body: (
       <>
         <p>
-          Hi, congrats on the SpaceX deal and the round. This is Jovan
-          from Hex.
+          Hi [first name], congrats on the SpaceX deal and the round.
+          This is Jovan from Hex.
         </p>
         <p className="mt-5">
           This is a cold call. Want to give me 30 seconds, or should I
@@ -31,20 +31,20 @@ const STAGES = [
     body: (
       <>
         <p>
-          You posted Data Scientist, Growth a few weeks back. The hard
-          truth about that hire: most early data scientists at
-          hyper-growth startups spend month one building pipelines
-          instead of doing the strategic work you hired them for.
+          You posted Data Scientist (Growth) a few weeks back. Most
+          early data hires at startups your speed spend month one
+          building pipelines and dashboards instead of doing the actual
+          analysis you hired them for.
         </p>
         <p className="mt-5">
-          Hex flips that timeline. Notebooks for the analyst. Threads
-          for self-serve from product, growth, and finance. Context
-          Studio so the AI doesn't hallucinate against your warehouse.
+          Hex skips that build. Notebooks for the analyst. Threads so
+          product, growth, and finance can self-serve. Context Studio
+          so the AI doesn't hallucinate against your warehouse.
         </p>
         <p className="mt-5">
-          We shipped a Claude Connector on March 3. Given how
-          Claude-heavy Cursor's stack already is, your team can ask
-          warehouse questions without ever opening hex.tech.
+          We shipped a Claude Connector March 3. Your engineers already
+          live in Claude, so they can ask data questions without ever
+          opening hex.tech.
         </p>
       </>
     ),

@@ -10,9 +10,10 @@ const BUYER_BLOCKS: { label: string; body: React.ReactNode }[] = [
     body: (
       <>
         Hex sells to data leaders and the people who hire them. Cursor's
-        open Data Scientist (Growth) posting is the persona Hex is built
-        for. The relevant buyer is the co-founder who owns Growth and
-        Operations, since that hire reports into their org.
+        open Data Scientist (Growth) role is exactly the kind of hire
+        Hex is built around. The person to call is the co-founder who
+        owns Growth and Operations, because that's who this hire will
+        report to.
       </>
     ),
   },
@@ -21,14 +22,14 @@ const BUYER_BLOCKS: { label: string; body: React.ReactNode }[] = [
     body: (
       <>
         Most early data hires at hyper-growth startups spend month one
-        building pipelines, dashboards, and governance instead of
-        shipping insights. Hex collapses that build into a platform.
-        Notebooks for the analyst, Threads for self-serve from product,
-        growth, and finance, Context Studio for the semantic layer that
-        keeps AI honest. The Claude Connector we shipped on March 3
-        means everyone at Cursor (a Claude-heavy company) can ask
-        warehouse questions from inside Claude. Day-one productivity for
-        the incoming hire.
+        building pipelines, dashboards, and governance instead of doing
+        the work they were hired for. Hex skips that build. Notebooks
+        for the analyst. Threads so product, growth, and finance can
+        self-serve. Context Studio so the AI doesn't hallucinate
+        against the warehouse. The Claude Connector we shipped March 3
+        means everyone at Cursor, who already lives in Claude, can ask
+        data questions without opening hex.tech. Your hire is useful in
+        week one, not month four.
       </>
     ),
   },
@@ -36,11 +37,11 @@ const BUYER_BLOCKS: { label: string; body: React.ReactNode }[] = [
     label: "Why Cursor",
     body: (
       <>
-        Cursor has zero public footprint with Hex. Their first data
-        scientist will be drowning in usage telemetry from half the
-        Fortune 500, plus questions from the SpaceX integration team and
-        two new investor cohorts. Hex is the difference between shipping
-        value in week one or building infra for six months.
+        There's no public sign Cursor uses Hex today. Their first data
+        scientist will be drowning in usage data from half the Fortune
+        500, plus questions from the SpaceX team and two fresh investor
+        groups. Hex is the difference between that hire being useful
+        week one or building plumbing for six months.
       </>
     ),
   },
