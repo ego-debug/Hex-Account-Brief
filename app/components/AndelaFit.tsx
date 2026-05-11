@@ -21,7 +21,7 @@ const BUYER_BLOCKS: { label: string; body: React.ReactNode }[] = [
     label: "The Pitch",
     body: (
       <>
-        Most early data hires at hyper-growth startups spend month one
+        Most early data hires at hyper-growth companies spend month one
         building pipelines, dashboards, and governance instead of doing
         the work they were hired for. Hex skips that build. Notebooks
         for the analyst. Threads so product, growth, and finance can

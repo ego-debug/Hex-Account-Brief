@@ -6,19 +6,19 @@ import SectionHeader from "./SectionHeader";
 const PRIORITIES = [
   {
     num: "01",
-    body: "Know the Hex pitch cold. By end of week 2, deliver it without notes for a Head of Data, Analytics Lead, or CTO. Three surfaces, the Claude Connector story, and how Context Studio answers the hallucination objection.",
+    body: "Memorize the Hex pitch during training. Earn team sign-off before going live to buyers. Three surfaces, the Claude Connector story, and how Context Studio answers the hallucination objection.",
   },
   {
     num: "02",
-    body: "Sit on the top 3 SDRs' calls. Memorize their objection handling and account research word-for-word until I build my own.",
+    body: "Shadow the top 3 SDRs. Borrow their objection handling and account research word-for-word until I have my own version.",
   },
   {
     num: "03",
-    body: "Hit my activity numbers by end of week 1: dials, emails, LinkedIn. Run my first sequence by end of week 2, anchored on the Claude Connector launch and tested against accounts shaped like Cursor. Refine the opener weekly based on what's getting replies.",
+    body: "Once training wraps, get on the phones. Run my first owned sequence anchored on the Claude Connector launch and tested against accounts shaped like Cursor.",
   },
   {
     num: "04",
-    body: "Identify the 2 or 3 reps and managers I want as long-haul mentors. Earn 15 minutes of coffee or shadow time with each by end of month.",
+    body: "Find the 2 or 3 reps and managers I'll learn the most from long term. Earn 15 minutes of coffee or shadow time with each.",
   },
 ];
 

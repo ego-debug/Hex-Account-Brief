@@ -16,7 +16,7 @@ const BLOCKS: Block[] = [
   },
   {
     kind: "p",
-    text: "Most early data hires at startups your speed spend month one building infrastructure (pipelines, dashboards, governance) instead of doing the actual analysis you hired them for. Hex skips that build. Notebooks for the analyst, Threads so product, growth, and finance can self-serve, Context Studio to keep the AI honest against your warehouse. Your hire is useful in week one, not month four.",
+    text: "Most early data hires at companies your speed spend month one building infrastructure (pipelines, dashboards, governance) instead of doing the actual analysis you hired them for. Hex skips that build. Notebooks for the analyst, Threads so product, growth, and finance can self-serve, Context Studio to keep the AI honest against your warehouse. Your hire is useful in week one, not month four.",
   },
   {
     kind: "p",
@@ -24,7 +24,7 @@ const BLOCKS: Block[] = [
   },
   {
     kind: "p",
-    text: "Worth 15 minutes to show what your incoming data scientist's first 30 days could look like with Hex? I built a working Threads + Connector demo on public data and can walk you through what the same shape would look like against yours.",
+    text: "Worth 15 minutes next week to dig into what an incoming data scientist's first 30 days could look like with Hex?",
   },
   { kind: "sig", text: "Jovan Marrero, Hex" },
 ];

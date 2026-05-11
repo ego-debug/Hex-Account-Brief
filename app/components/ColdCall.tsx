@@ -32,7 +32,7 @@ const STAGES = [
       <>
         <p>
           You posted Data Scientist (Growth) a few weeks back. Most
-          early data hires at startups your speed spend month one
+          early data hires at companies your speed spend month one
           building pipelines and dashboards instead of doing the actual
           analysis you hired them for.
         </p>
